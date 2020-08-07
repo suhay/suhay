@@ -1,4 +1,6 @@
-### Hi there 👋
+![](docs/images/mug.svg)
+
+<iframe style="display:none">
 
 <!--
 **suhay/suhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
