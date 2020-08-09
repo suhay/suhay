@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 904 400" width="904px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <style type="text/css">
-    #test { display: none; }
-  </style>
   <defs>
     <linearGradient id="base" bx:pinned="true">
       <stop style="stop-color: rgb(255, 255, 255);"/>
