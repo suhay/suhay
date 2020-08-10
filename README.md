@@ -1,4 +1,4 @@
-<details class="details-reset details-overlay details-overlay-dark">
+<details style="display: none" class="details-reset details-overlay details-overlay-dark">
   <summary class="btn" aria-haspopup="dialog" role="button">Dark Mode</summary>
   <div>In Development...</div>
 </details>
@@ -10,6 +10,7 @@
 <details class="details-overlay">
   <summary class="btn">Why?</summary>
   <div class="border p-3 mt-2" markdown="1">  
+  
 Why not?  
 
 When it was discovered that Github had introduced the __secret__ repository trick for upgrading your profile's landing page, I, like many of my fellow developers, opened our favorite markdown editors, popped a tray of pizza roles into the toaster oven, and then went to town on crafting the greatest README file this side of the internet has ever seen. It was a true work of art; animated gifs, emojis as punctuation, artfully placed horizontal rules. I was on :fire:. But something was missing.  
