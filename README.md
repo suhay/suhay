@@ -5,6 +5,8 @@
 
 ![](https://suhay.github.io/suhay/images/github.svg)
 
+![](https://suhay.github.io/suhay/images/text.svg)
+
 ## Hacking your Github Profile's README:
 
 <details class="details-overlay">
