@@ -5,12 +5,6 @@
 
 ![](https://suhay.github.io/suhay/images/github.svg)
 
-<div class$="test">1</div>
-<div className="test">2</div>
-<div style$="test">3</div>
-<div>{{hostValue::input}}</div>
-<div>[[given]] [[family]]</div>
-
 <!-- 
 ![](https://suhay.github.io/suhay/images/text.svg)
 
