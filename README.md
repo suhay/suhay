@@ -1,10 +1,13 @@
-<details style="display: none" class="details-reset details-overlay details-overlay-dark">
+<!-- <details style="display: none" class="details-reset details-overlay details-overlay-dark">
   <summary class="btn" aria-haspopup="dialog" role="button">Dark Mode</summary>
   <div>In Development...</div>
-</details>
+</details> -->
 
 ![](https://suhay.github.io/suhay/images/github.svg)
 
+<div c&#8232lass="test">.</div>
+
+<!-- 
 ![](https://suhay.github.io/suhay/images/text.svg)
 
 ## Hacking your Github Profile's README:
@@ -34,13 +37,13 @@ So what was learned?
 
 ## `<svg>`: Excuse me streamer, it's pronounced "s-vij" with a soft "g"...
 
-It looks like our main vector (pun) is going to be trying to inject `<style>` blocks directly into the Markdown since the CSP is explicitly allowing `'unsafe-inline'`, but I'm pretty sure Github is escaping those out, so I didn't spend too much time trying to battle their regex just yet. The next thing to try was getting one inside of an `<svg>` and uploading it to the repo while turning the `/docs` folder into a Github Pages directory. This step may not have been necessary, but I wanted to be doubley sure that the file was being served off of a Github owned domain. As a partial success, the `<style>` block wasn't getting escaped into oblivion, but the SVG file was getting either post processed, or proxied onto the page which meant I couldn't directly access the style block I had created. The `<svg>` was able to, so at least we had another fallback.  
+It looks like our main vector (pun) is going to be trying to inject a `<style>` block directly into the Markdown since the CSP is explicitly allowing `'unsafe-inline'`, but I'm pretty sure Github is escaping those out, so I didn't spend too much time trying to battle their regex just yet. The next thing to try was getting one inside of an `<svg>` and uploading it to the repo while turning the `/docs` folder into a Github Pages directory. This step may not have been necessary, but I wanted to be doubley sure that the file was being served off of a Github owned domain. As a partial success, the `<style>` block wasn't getting escaped into oblivion, but the SVG file was coming in as an `<img>` so I wasn't able to directly reach into my styles nor was I able to use any of the available within the page. In side the `<svg>`, so far, was where we had the most control, so at least we had a fallback plan.  
 
 ## Priming with @primer
 
 More Coming...  
   </div>
-</details>
+</details> -->
 
 
 
